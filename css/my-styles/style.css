@@ -19,3 +19,20 @@
     margin-bottom: 20px;
     border-radius: 10px;
 }
+
+.img_holder {
+    width: max-content !important;
+}
+
+.img-6 {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 5px;
+    display: block;
+}
+
+.one_half .text {
+    float: left;
+    margin-left: 10px !important;
+}
